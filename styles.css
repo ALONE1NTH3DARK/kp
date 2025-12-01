@@ -11,6 +11,11 @@ img {
   max-height: 100px;
 }
 
+.loc {
+  font-size: 14px;
+  color: #868e96;
+}
+
 .grey {
   color: #868e96;
 }
