@@ -7268,13 +7268,13 @@ table.dataTable thead .sorting_desc_disabled:after {
 }
 table.dataTable thead .sorting:after {
   opacity: 0.2;
-  content: "\e150";
+  content: "▾";
 }
 table.dataTable thead .sorting_asc:after {
-  content: "\e155";
+  content: "▼";
 }
 table.dataTable thead .sorting_desc:after {
-  content: "\e156";
+  content: "▲";
 }
 table.dataTable thead .sorting_asc_disabled:after,
 table.dataTable thead .sorting_desc_disabled:after {
