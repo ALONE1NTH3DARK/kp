@@ -1,0 +1,28 @@
+td {
+	font-size: 17px;
+}
+
+img {
+	max-width: 80px;
+	max-height: 80px;
+}
+
+.grey {
+      color: #868e96;
+   }
+
+.blue {
+      color: #3b5bdb;
+   }
+
+.green {
+      color: #2f9e44;
+   }
+
+.orange {
+      color: #f08c00;
+   }
+
+.red {
+      color: #e03131;
+   }
